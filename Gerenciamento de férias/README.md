@@ -14,10 +14,41 @@
 
 ## Capturas de tela
 
+<table>
+<th>
+<tr>Navegação principal</tr>
+</th>
+
+<td>
 <img src="old/month%20navigation.gif" >
+</td>
+</table>
+
+<table>
+<th><tr>Tela de anotações globais</tr></th>
+
+<td>
 <img src="old/global%20annotations.gif" >
+</td>
+</table>
+
+<table>
+<th><tr>Marcando os eventos</tr></th>
+
+<td>
 <img src="old/tags%20demonstration.gif" >
+</td>
+</table>
+
+<table>
+<th><tr>Captura estática</tr></th>
+
+<td>
 <img src="old/screen1.png" >
+</td>
+</table>
+
+
 
 #
 
@@ -32,8 +63,31 @@
 
 ## Capturas de tela
 
-- <img src="new/presentation/1%20-%20Authentication.png" >
-- <img src="new/presentation/2%20-%20Admin%20Home%20.png" >
-- <img src="new/presentation/3%20-%20Month%20time%20line%20view.png" >
+<table>
+<th><tr>Tela de login</tr></th>
+
+<td>
+<img src="new/presentation/1%20-%20Authentication.png" >
+</td>
+</table>
+
+<table>
+<th><tr>Visão do administrador (selecionar divisão)</tr></th>
+
+<td>
+<img src="new/presentation/2%20-%20Admin%20Home%20.png" >
+</td>
+</table>
+
+<table>
+<th><tr>Tela principal</tr></th>
+
+<td>
+<img src="new/presentation/3%20-%20Month%20time%20line%20view.png" >
+</td>
+</table>
+
+ **As capturas de tela acima são apenas renderizações e carecem melhorias e ajustes, que ocorrerão ao longo do planejamento e implementação.**
+
 
 
