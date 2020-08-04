@@ -1,6 +1,6 @@
 # Sistema de gerenciamento de Férias
 
-## Desvantagens da versão atual
+## Sistema atual: Desvantagens
 
 1.     Planilha do excel com pastas de trabalho para cada mês do ano;
 2.     Para cada novo ano, é necessário revisar individualmente cada pasta de trabalho;
@@ -14,45 +14,34 @@
 
 ## Capturas de tela
 
-<table>
-<th>
-<tr>Navegação principal</tr>
-</th>
+<!-- Captura de tela 1 -->
+| Navegação principal                     |
+| --------------------------------------- |
+| <img src="old/month%20navigation.gif" > |
 
-<td>
-<img src="old/month%20navigation.gif" >
-</td>
-</table>
+<!-- Captura de tela 2 -->
+| Tela de anotações globais                 |
+| ----------------------------------------- |
+| <img src="old/global%20annotations.gif" > |
 
-<table>
-<th><tr>Tela de anotações globais</tr></th>
+<!-- Captura de tela 3 -->
+| Marcando os eventos                       |
+| ----------------------------------------- |
+| <img src="old/tags%20demonstration.gif" > |
 
-<td>
-<img src="old/global%20annotations.gif" >
-</td>
-</table>
+<!-- Captura de tela 4 -->
+| Captura estática             |
+| ---------------------------- |
+| <img src="old/screen1.png" > |
 
-<table>
-<th><tr>Marcando os eventos</tr></th>
-
-<td>
-<img src="old/tags%20demonstration.gif" >
-</td>
-</table>
-
-<table>
-<th><tr>Captura estática</tr></th>
-
-<td>
-<img src="old/screen1.png" >
-</td>
-</table>
 
 
 
 #
 
-# Sistema novo
+# Proposta de substituição
+
+## Novo sistema: Vantagens
 
 1.     Possibilidade de implementar autenticação mais avançada
 2.     Capacidade de filtragem de informações superior
@@ -63,31 +52,19 @@
 
 ## Capturas de tela
 
-<table>
-<th><tr>Tela de login</tr></th>
+<!-- Captura de tela 1 -->
+| Tela de login                                            |
+| -------------------------------------------------------- |
+| <img src="new/presentation/1%20-%20Authentication.png" > |
 
-<td>
-<img src="new/presentation/1%20-%20Authentication.png" >
-</td>
-</table>
+<!-- Captura de tela 2 -->
+| Visão do administrador (selecionar divisão)               |
+| --------------------------------------------------------- |
+| <img src="new/presentation/2%20-%20Admin%20Home%20.png" > |
 
-<table>
-<th><tr>Visão do administrador (selecionar divisão)</tr></th>
-
-<td>
-<img src="new/presentation/2%20-%20Admin%20Home%20.png" >
-</td>
-</table>
-
-<table>
-<th><tr>Tela principal</tr></th>
-
-<td>
-<img src="new/presentation/3%20-%20Month%20time%20line%20view.png" >
-</td>
-</table>
+<!-- Captura de tela 3 -->
+| Tela principal                                                       |
+| -------------------------------------------------------------------- |
+| <img src="new/presentation/3%20-%20Month%20time%20line%20view.png" > |
 
  **As capturas de tela acima são apenas renderizações e carecem melhorias e ajustes, que ocorrerão ao longo do planejamento e implementação.**
-
-
-
