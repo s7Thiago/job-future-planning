@@ -73,3 +73,12 @@
 | <img src="/Gerenciamento%20de%20férias/new/presentation/cassi_vacation_management-2020-07-27-10-05-51.gif"> |
 
  **As capturas de tela acima são apenas renderizações e carecem melhorias e ajustes, que ocorrerão ao longo do planejamento e implementação.**
+
+## Links úteis sobre a tecnologia que será utilizada
+* [O que é Flutter](https://iugu.com/blog/o-que-e-flutter/)
+* [Porque usar Flutter para construir aplicações Cross-Platform?](https://www.cleveroad.com/blog/why-use-flutter)
+* [Vantagens de usar Flutter](https://www.agatetepe.com.br/flutter-vs-reagir-nativo-comparacao-detalhada-semelhancas-e-superioridade/#:~:text=%20Vantagens%20De%20Flutter%20%201%20Documenta%C3%A7%C3%A3o%20limpa%2C,uma%20implementa%C3%A7%C3%A3o%20de%20mudan%C3%A7a%20mais%20r%C3%A1pida%20More%20)
+* [Página oficial do framework](https://flutter.dev/)
+* [Flutter Desktop](https://flutter.dev/desktop)
+* [Flutter Web](https://flutter.dev/web)
+* [Casos de sucesso usando Flutter](https://flutter.dev/showcase)
