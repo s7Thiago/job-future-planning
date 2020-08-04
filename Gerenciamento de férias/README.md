@@ -15,24 +15,24 @@
 ## Capturas de tela
 
 <!-- Captura de tela 1 -->
-| Navegação principal                     |
+| (Versão atual) Navegação principal      |
 | --------------------------------------- |
 | <img src="old/month%20navigation.gif" > |
 
 <!-- Captura de tela 2 -->
-| Tela de anotações globais                 |
+| (Versão atual) Tela de anotações globais  |
 | ----------------------------------------- |
 | <img src="old/global%20annotations.gif" > |
 
 <!-- Captura de tela 3 -->
-| Marcando os eventos                       |
+| (Versão atual) Marcando os eventos        |
 | ----------------------------------------- |
 | <img src="old/tags%20demonstration.gif" > |
 
 <!-- Captura de tela 4 -->
-| Captura estática             |
-| ---------------------------- |
-| <img src="old/screen1.png" > |
+| (Versão atual) Captura estática |
+| ------------------------------- |
+| <img src="old/screen1.png" >    |
 
 
 
@@ -53,22 +53,22 @@
 ## Capturas de tela
 
 <!-- Captura de tela 1 -->
-| Tela de login                                            |
+| (Aplicação nova) Tela de login                           |
 | -------------------------------------------------------- |
 | <img src="new/presentation/1%20-%20Authentication.png" > |
 
 <!-- Captura de tela 2 -->
-| Visão do administrador (selecionar divisão)               |
-| --------------------------------------------------------- |
-| <img src="new/presentation/2%20-%20Admin%20Home%20.png" > |
+| (Aplicação nova) Visão do administrador (selecionar divisão) |
+| ------------------------------------------------------------ |
+| <img src="new/presentation/2%20-%20Admin%20Home%20.png" >    |
 
 <!-- Captura de tela 3 -->
-| Tela principal                                                       |
+| (Aplicação nova) Tela principal                                      |
 | -------------------------------------------------------------------- |
 | <img src="new/presentation/3%20-%20Month%20time%20line%20view.png" > |
 
 <!-- Captura de tela 4 -->
-| Implementação de teste                                                                                      |
+| (Aplicação nova) Implementação de teste                                                                     |
 | ----------------------------------------------------------------------------------------------------------- |
 | <img src="/Gerenciamento%20de%20férias/new/presentation/cassi_vacation_management-2020-07-27-10-05-51.gif"> |
 
