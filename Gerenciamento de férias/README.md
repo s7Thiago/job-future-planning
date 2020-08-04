@@ -67,4 +67,9 @@
 | -------------------------------------------------------------------- |
 | <img src="new/presentation/3%20-%20Month%20time%20line%20view.png" > |
 
+<!-- Captura de tela 4 -->
+| Implementação de teste                                                                                      |
+| ----------------------------------------------------------------------------------------------------------- |
+| <img src="/Gerenciamento%20de%20férias/new/presentation/cassi_vacation_management-2020-07-27-10-05-51.gif"> |
+
  **As capturas de tela acima são apenas renderizações e carecem melhorias e ajustes, que ocorrerão ao longo do planejamento e implementação.**
