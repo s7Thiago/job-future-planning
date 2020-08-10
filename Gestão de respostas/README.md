@@ -24,7 +24,7 @@
 | ![Tela principal](./screenshots/incluir_mensagem.gif) |
 
 <!-- Definindo prioridade -->
-| Incluindo mensagens                                       |
+| Definindo a prioridade de uma mensagem                    |
 | --------------------------------------------------------- |
 | ![Tela principal](./screenshots/definindo_prioridade.gif) |
 
